@@ -1,0 +1,52 @@
+//main.css start
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, button{
+	font-family: 'Roboto', sans-serif;
+}
+h1{
+	font-size: 4.6rem;
+	font-weight: 800;
+}
+h2{
+	font-size: 2.3rem;
+	font-weight: 700;
+}
+h3{
+	font-size: 25px;
+	font-weight: 600;
+}
+h4{
+	font-size: 20px;
+	font-weight: 500;
+}
+
+h5{
+	font-size: 17px;
+	font-weight: 400;
+}
+h6{
+	font-size: 14px;
+	font-weight: 300;
+}
+p{
+	font-size: 16px;
+}
+p, a, button{
+	background: transparent;
+	border: none;
+	outline: none;
+	line-height: 20px;
+    color: #000000;
+    padding: 0px;
+    margin: 0px;
+}
+a:hover{
+	color: #000000;
+	outline: none;
+}
+a:active{
+	outline: none;
+}

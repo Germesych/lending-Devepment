@@ -1,0 +1,11 @@
+@import 'moduls/_reset';
+@import 'moduls/_var';
+@import 'moduls/_main';
+@import 'moduls/_nav';
+@import 'moduls/_header';
+@import 'moduls/_block';
+@import 'moduls/_footer';
+@import 'moduls/_media';
+body{
+    display: grid;
+}
